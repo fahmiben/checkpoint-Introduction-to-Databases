@@ -1,0 +1,45 @@
+A comparison between MySQL vs PostgreSQL vs SQLite
+We now compare MySQL vs PostgreSQL vs SQLite.
+*)The focus on advanced features in MySQL vs PostgreSQL vs SQLite
+Are you looking for powerful features when you choose an open-source RDBMS? You should use PostgreSQL.
+ It supports concurrency well. Furthermore, it offers other powerful features like nested transactions. 
+PostgreSQL complies completely with the ACID standards.
+ This makes it a better choice for use cases where data integrity is very important.
+ PostgreSQL offers the best compatibility with SQL standards, and it’s ahead of MySQL and SQLite in this regard.
+
+*)The comparison of performance between MySQL vs PostgreSQL vs SQLite
+ 
+Are you looking for speed and performance in an open-source RDBMS? Choose MySQL.
+ We talked about a few limitations in MySQL concerning capabilities, however, that provides one advantage too! Since the developers behind MySQL didn’t implement certain complex features, this RDBMS can offer speed.
+ It takes a lead over PostgreSQL and SQLite in this regard.
+
+*)The comparison of scalability between MySQL vs PostgreSQL vs SQLite
+
+Do you prioritize scalability? You should choose MySQL over PostgreSQL and SQLite.
+ MySQL supports multi-threading, which makes it a highly scalable RDBMS.  
+The comparison of security between MySQL vs PostgreSQL vs SQLite
+
+Does security have a high priority in your project requirements? You should choose MySQL over PostgreSQL and SQLite. MySQL allows you to set passwords at the level of the root user. You can set the security level of the password at the installation-level. You can remove unwanted test databases, furthermore, you can grant access privileges at the level of a user. 
+
+*)The comparison of user-friendliness between MySQL vs PostgreSQL vs SQLite
+
+Do you prioritize the ease-of-use when choosing an open-source RDBMS? You should use SQLite.
+ Note that MySQL and PostgreSQL offer user-friendliness too.
+ Many 3rd party tools support these RDBMSs, furthermore, you can find extensive documentation. 
+However, SQLite remains ahead of both in this regard.
+ You don’t need to configure it. SQLite doesn’t execute as a server-side process.
+ As a result, you don’t need to stop, start, or restart it.
+ Your developers don’t need to manage complex configuration files either. 
+  
+*)The comparison of support between MySQL vs PostgreSQL vs SQLite
+
+Do you want excellent community support for the open-source RDBMS you choose? After all, you aren’t using a commercial product. Robust community support has importance for you. 
+You should choose PostgreSQL in this case since a large and vibrant community supports it.
+ MySQL and SQLite have their developer communities too. However, PostgreSQL maintains a lead in this regard.
+
+*)The comparison of popularity between MySQL vs PostgreSQL vs SQLite
+
+Do you want to find developers easily, therefore, you want to use the most popular open-source RDBMS? Most developers will likely have skills in such an RDBMS.
+ This makes finding developers easier.
+ In this case, you should choose MySQL.
+ While PostgreSQL and SQLite are popular too, MySQL enjoys higher popularity.  
